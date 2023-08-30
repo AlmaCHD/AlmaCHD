@@ -12,6 +12,8 @@
 <img src= https://profecantone.github.io/uno/diodo-zener.gif>
     <p class="texto">
       Un diodo zener es un tipo especial de diodo que opera en la región de ruptura inversa. Cuando se polariza inversamente con un voltaje superior a su voltaje de ruptura, el diodo zener permite un flujo controlado de corriente en sentido inverso. La medición de un diodo zener implica aplicar una tensión inversa gradualmente y medir la corriente que fluye a medida que se alcanza y supera el voltaje de ruptura. Esto ayuda a determinar su voltaje de zener nominal. Los diodos zener se utilizan en reguladores de voltaje y circuitos de protección contra sobretensiónes.
+
+      
 <img src= https://profecantone.github.io/uno/medicion-led.gif>
 <p class="texto">
 La medición de un diodo led (diodo emisor de luz) implica determinar su voltaje directo y la corriente que fluye a travez de él. En polarización directa, un led permite el flujo de corriente y emite luz. Para medirlo, puedes conectarlo en serie con una resistencia limitadora de corriente y una fuente de voltaje. Luego, aumenta gradualmente el voltaje hasta que la corriente alcance un nivel seguro para el led, generalmente mencionado en su hoja de datos. El voltaje en el led en ese punto es su voltaje directo nominal. Es importante utilizar una resistencia limitadora para proteger el led de corrientes excesivas.
